@@ -1,5 +1,7 @@
 # Bandhu - A Social Media APP
 
+## Service is down on render.
+
 ```
 This project is hosted on renders.com and can be accessed on https://bandu-social-media-app.onrender.com
 
